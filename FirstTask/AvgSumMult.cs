@@ -9,7 +9,7 @@ namespace FirstTask
             double firstVariable, secondVariable, thirdVariable, avg, sum, mult;
 
             Console.WriteLine("Введите первое число:");
-            firstVariable = double.Parse(Console.ReadLine());
+            firstVariable = double.Parse(Console.ReadLine()); 
 
             Console.WriteLine("Введите второе число:");
             secondVariable = double.Parse(Console.ReadLine());
