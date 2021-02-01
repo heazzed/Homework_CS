@@ -17,7 +17,7 @@ namespace FirstTaskConverter
             Console.WriteLine("Сумма в долларах равна " + valueInDollars + "\n" +
                 "Сумма в евро равна " + valueInEuro);
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
