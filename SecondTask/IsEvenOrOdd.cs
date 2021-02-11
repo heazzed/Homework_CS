@@ -2,7 +2,7 @@
 
 namespace SecondTask
 {
-    class Program
+    class IsEvenOrOdd
     {
         static void Main(string[] args)
         {

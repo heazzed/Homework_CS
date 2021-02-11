@@ -2,7 +2,7 @@
 
 namespace FirstTaskConverter
 {
-    class Program
+    class Converter
     {
         static void Main(string[] args)
         {
